@@ -1,5 +1,5 @@
 <?php 
 
-print "Hi Veera" 
-print "Hello World" 
+print "Hi Veera\n" 
+print "Hello World \n <br \>"; 
 ?> 
